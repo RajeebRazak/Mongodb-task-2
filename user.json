@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "RajeebRazak",
+        "programme": "ZEN_FSD",
+        "batch": 52
+    },
+    {
+        "id": 2,
+        "username": "Raja",
+        "programme": "ZEN_ML",
+        "batch": 53
+    },
+    {
+        "id": 3,
+        "username": "Ravi",
+        "programme": "ZEN_DEVOPS",
+        "batch": 54
+    },
+    {
+        "id": 4,
+        "username": "RK",
+        "programme": "ZEN_UI_UX",
+        "batch": 55
+    },
+    {
+        "id": 5,
+        "username": "RKraja",
+        "programme": "ZEN_C",
+        "batch": 56
+    }
+]
